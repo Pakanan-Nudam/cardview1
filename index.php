@@ -164,7 +164,7 @@
             
             loadweather();
             $("#search").click(()=>{ 
-               searchweather1();
+               searchweather();
             })
   
             $("#search").click(()=>{ 
